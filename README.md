@@ -12,13 +12,13 @@ These lines have been added via GitHub Desktop
 
 ## Roadmap
 ### Short term
-[] Polish up the repository structure, make it appealing
-[] Link to the repository on Xing, and my resume
-[] Add medium and long term goals
-[] Research and imagine exciting and achievable projects to create
+- [] Polish up the repository structure, make it appealing
+- [] Link to the repository on Xing, and my resume
+- [] Add medium and long term goals
+- [] Research and imagine exciting and achievable projects to create
 ### Medium term
-[] Refine past projects, make them presentable and upload
-[] Finish preparatory course "TensorFlow Developer Certificate in 2023: Zero to Mastery" and upload progress in appealing manner
-[] Finish TUM "Introduction to Deep Learning (I2DL)" exercises and upload insights
+- [] Refine past projects, make them presentable and upload
+- [] Finish preparatory course "TensorFlow Developer Certificate in 2023: Zero to Mastery" and upload progress in appealing manner
+- [] Finish TUM "Introduction to Deep Learning (I2DL)" exercises and upload insights
 ### Long term
-[] Visualize, plan and carry out exiting projects
+- [] Visualize, plan and carry out exiting projects
