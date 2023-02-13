@@ -18,7 +18,7 @@ Implement knowledge of Regression Models, Decision Trees, Neural Networks and ma
 ## Big Projects
 
 ### Trading Bot
-
+More in-depth. Implement data pipeline and continuos predictions based on incoming data. Use reinforcement learning and/or other methods. Long term goal would be to enable possibility of actual automatic trading. 
 
 ### Starcraft 2 Bot
 Bot that uses compartmentalized "knowledge" (modules) to make game decisions and hopefully beat up to the "harder" AI.
